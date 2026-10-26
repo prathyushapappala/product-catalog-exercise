@@ -1,0 +1,12 @@
+{
+  "name": "interview-catalog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Product catalog exercise for a senior full stack interview",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "packageManager": "pnpm@9.12.0"
+}
